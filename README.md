@@ -57,7 +57,8 @@ The dashboard will help analyze:
 
 ## 🏗️ System Architecture
 
-![Architecture](assets/system-architecture.png)
+![Uploading Architect.png…]()
+
 
 ### Data Flow
 
